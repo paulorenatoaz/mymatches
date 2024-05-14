@@ -1,21 +1,27 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='matches_update',
-    version='0.1',
-    packages=find_packages(where='src'),
-    package_dir={'': 'src'},
+    name='mymatches',
+    version='0.1.0',
+    description='Fetch football match data and update Google Calendar',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
+    author='Paulo Renato Azeredo',
+    author_email='paulorenatoaz@dcc.ufrj.br',
+    url='https://github.com/yourusername/mymatches',
+    packages=find_packages(),
+    include_package_data=True,
     install_requires=[
         'requests',
-        'google-api-python-client',
         'google-auth',
         'google-auth-oauthlib',
         'google-auth-httplib2',
+        'google-api-python-client',
     ],
-    entry_points={
-        'console_scripts': [
-            'fetch_matches=scripts.run_fetch_and_store_matches:main',
-            'update_calendar=scripts.run_update_calendar:main',
-        ],
-    },
+    classifiers=[
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
+    ],
+    python_requires='>=3.6',
 )
