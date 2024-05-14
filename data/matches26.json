@@ -1,0 +1,973 @@
+{
+    "campeonato-brasileiro": [
+        {
+            "partida_id": 16989,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Juventude",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 43,
+                "nome_popular": "Juventude",
+                "sigla": "JUV",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349b308c6.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-juventude-16989",
+            "data_realizacao": null,
+            "hora_realizacao": null,
+            "data_realizacao_iso": null,
+            "estadio": {
+                "estadio_id": 19,
+                "nome_popular": "Maracanã"
+            }
+        },
+        {
+            "partida_id": 17009,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Fluminense",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-fluminense-17009",
+            "data_realizacao": "25/05/2024",
+            "hora_realizacao": "16:00",
+            "data_realizacao_iso": "2024-05-25T16:00:00-0300",
+            "estadio": {
+                "estadio_id": 26,
+                "nome_popular": "Nilton Santos (Engenhão)"
+            }
+        },
+        {
+            "partida_id": 17025,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Atlético-GO",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 98,
+                "nome_popular": "Atlético-GO",
+                "sigla": "ACG",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34b9174a3.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-atletico-go-17025",
+            "data_realizacao": "01/06/2024",
+            "hora_realizacao": "18:00",
+            "data_realizacao_iso": "2024-06-01T18:00:00-0300",
+            "estadio": {
+                "estadio_id": 19,
+                "nome_popular": "Maracanã"
+            }
+        },
+        {
+            "partida_id": 17039,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Cruzeiro x Fluminense",
+            "time_mandante": {
+                "time_id": 37,
+                "nome_popular": "Cruzeiro",
+                "sigla": "CRU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34984830b.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "cruzeiro-fluminense-17039",
+            "data_realizacao": "12/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-12T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17061,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Flamengo",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 18,
+                "nome_popular": "Flamengo",
+                "sigla": "FLA",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d348e3f815.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-flamengo-17061",
+            "data_realizacao": "16/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-16T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17079,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Vitória",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 102,
+                "nome_popular": "Vitória",
+                "sigla": "VIT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34bb4bf99.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-vitoria-17079",
+            "data_realizacao": "19/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-19T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17091,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Grêmio x Fluminense",
+            "time_mandante": {
+                "time_id": 45,
+                "nome_popular": "Grêmio",
+                "sigla": "GRE",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349c32bf1.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "gremio-fluminense-17091",
+            "data_realizacao": "23/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-23T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17115,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Internacional",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 44,
+                "nome_popular": "Internacional",
+                "sigla": "INT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349b92103.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-internacional-17115",
+            "data_realizacao": "26/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-26T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17139,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fortaleza x Fluminense",
+            "time_mandante": {
+                "time_id": 131,
+                "nome_popular": "Fortaleza",
+                "sigla": "FOR",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34c76d067.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fortaleza-fluminense-17139",
+            "data_realizacao": "30/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-30T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17159,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Criciúma x Fluminense",
+            "time_mandante": {
+                "time_id": 1,
+                "nome_popular": "Criciúma",
+                "sigla": "CRI",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3482a8351.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "criciuma-fluminense-17159",
+            "data_realizacao": "03/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-03T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17163,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Athletico-PR",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 185,
+                "nome_popular": "Athletico-PR",
+                "sigla": "CAP",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34e1b8948.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-athletico-pr-17163",
+            "data_realizacao": "07/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-07T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17178,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Cuiabá x Fluminense",
+            "time_mandante": {
+                "time_id": 204,
+                "nome_popular": "Cuiabá",
+                "sigla": "CUI",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34ebcdafa.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "cuiaba-fluminense-17178",
+            "data_realizacao": "10/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-10T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17183,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Palmeiras",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a1cf247.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-palmeiras-17183",
+            "data_realizacao": "17/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-17T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17196,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Bragantino x Fluminense",
+            "time_mandante": {
+                "time_id": 64,
+                "nome_popular": "Bragantino",
+                "sigla": "BGT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a5db2ec.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "bragantino-fluminense-17196",
+            "data_realizacao": "21/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-21T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17203,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Bahia",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 68,
+                "nome_popular": "Bahia",
+                "sigla": "BAH",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a8b6bd8.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-bahia-17203",
+            "data_realizacao": "28/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-28T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17214,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Vasco x Fluminense",
+            "time_mandante": {
+                "time_id": 23,
+                "nome_popular": "Vasco",
+                "sigla": "VAS",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3490f1e73.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "vasco-fluminense-17214",
+            "data_realizacao": "04/08/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-08-04T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17223,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Corinthians",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 65,
+                "nome_popular": "Corinthians",
+                "sigla": "COR",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a68419f.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-corinthians-17223",
+            "data_realizacao": "11/08/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-08-11T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17231,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Atlético-MG x Fluminense",
+            "time_mandante": {
+                "time_id": 30,
+                "nome_popular": "Atlético-MG",
+                "sigla": "CAM",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3494f3380.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "atletico-mg-fluminense-17231",
+            "data_realizacao": "18/08/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-08-18T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17243,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x São Paulo",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 57,
+                "nome_popular": "São Paulo",
+                "sigla": "SAO",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a23c311.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-sao-paulo-17243",
+            "data_realizacao": "25/08/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-08-25T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17259,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Juventude x Fluminense",
+            "time_mandante": {
+                "time_id": 43,
+                "nome_popular": "Juventude",
+                "sigla": "JUV",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349b308c6.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "juventude-fluminense-17259",
+            "data_realizacao": "01/09/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-09-01T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17263,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Botafogo",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-botafogo-17263",
+            "data_realizacao": "15/09/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-09-15T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17278,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Atlético-GO x Fluminense",
+            "time_mandante": {
+                "time_id": 98,
+                "nome_popular": "Atlético-GO",
+                "sigla": "ACG",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34b9174a3.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "atletico-go-fluminense-17278",
+            "data_realizacao": "22/09/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-09-22T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17283,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Cruzeiro",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 37,
+                "nome_popular": "Cruzeiro",
+                "sigla": "CRU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34984830b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-cruzeiro-17283",
+            "data_realizacao": "29/09/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-09-29T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17293,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Flamengo x Fluminense",
+            "time_mandante": {
+                "time_id": 18,
+                "nome_popular": "Flamengo",
+                "sigla": "FLA",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d348e3f815.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "flamengo-fluminense-17293",
+            "data_realizacao": "05/10/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-10-05T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17302,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Vitória x Fluminense",
+            "time_mandante": {
+                "time_id": 102,
+                "nome_popular": "Vitória",
+                "sigla": "VIT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34bb4bf99.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "vitoria-fluminense-17302",
+            "data_realizacao": "20/10/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-10-20T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17313,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Grêmio",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 45,
+                "nome_popular": "Grêmio",
+                "sigla": "GRE",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349c32bf1.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-gremio-17313",
+            "data_realizacao": "26/10/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-10-26T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17320,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Internacional x Fluminense",
+            "time_mandante": {
+                "time_id": 44,
+                "nome_popular": "Internacional",
+                "sigla": "INT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349b92103.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "internacional-fluminense-17320",
+            "data_realizacao": "06/11/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-11-06T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17333,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Fortaleza",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 131,
+                "nome_popular": "Fortaleza",
+                "sigla": "FOR",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34c76d067.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-fortaleza-17333",
+            "data_realizacao": "20/11/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-11-20T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17343,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Criciúma",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 1,
+                "nome_popular": "Criciúma",
+                "sigla": "CRI",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3482a8351.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-criciuma-17343",
+            "data_realizacao": "24/11/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-11-24T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17357,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Athletico-PR x Fluminense",
+            "time_mandante": {
+                "time_id": 185,
+                "nome_popular": "Athletico-PR",
+                "sigla": "CAP",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34e1b8948.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "athletico-pr-fluminense-17357",
+            "data_realizacao": "01/12/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-12-01T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17363,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Cuiabá",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 204,
+                "nome_popular": "Cuiabá",
+                "sigla": "CUI",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34ebcdafa.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-cuiaba-17363",
+            "data_realizacao": "04/12/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-12-04T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17375,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Fluminense",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a1cf247.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "palmeiras-fluminense-17375",
+            "data_realizacao": "08/12/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-12-08T12:00:00-0300",
+            "estadio": null
+        }
+    ]
+}

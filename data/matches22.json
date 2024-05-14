@@ -1,0 +1,973 @@
+{
+    "campeonato-brasileiro": [
+        {
+            "partida_id": 16993,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Corinthians x Botafogo",
+            "time_mandante": {
+                "time_id": 65,
+                "nome_popular": "Corinthians",
+                "sigla": "COR",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a68419f.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "corinthians-botafogo-16993",
+            "data_realizacao": "19/05/2024",
+            "hora_realizacao": "16:00",
+            "data_realizacao_iso": "2024-05-19T16:00:00-0300",
+            "estadio": {
+                "estadio_id": 329,
+                "nome_popular": "Neo Química Arena"
+            }
+        },
+        {
+            "partida_id": 17009,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Fluminense",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-fluminense-17009",
+            "data_realizacao": "25/05/2024",
+            "hora_realizacao": "16:00",
+            "data_realizacao_iso": "2024-05-25T16:00:00-0300",
+            "estadio": {
+                "estadio_id": 26,
+                "nome_popular": "Nilton Santos (Engenhão)"
+            }
+        },
+        {
+            "partida_id": 17019,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Grêmio x Botafogo",
+            "time_mandante": {
+                "time_id": 45,
+                "nome_popular": "Grêmio",
+                "sigla": "GRE",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349c32bf1.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "gremio-botafogo-17019",
+            "data_realizacao": "01/06/2024",
+            "hora_realizacao": "21:00",
+            "data_realizacao_iso": "2024-06-01T21:00:00-0300",
+            "estadio": {
+                "estadio_id": 54,
+                "nome_popular": "Arena do Grêmio"
+            }
+        },
+        {
+            "partida_id": 17045,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Athletico-PR",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 185,
+                "nome_popular": "Athletico-PR",
+                "sigla": "CAP",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34e1b8948.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-athletico-pr-17045",
+            "data_realizacao": "12/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-12T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17069,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Criciúma x Botafogo",
+            "time_mandante": {
+                "time_id": 1,
+                "nome_popular": "Criciúma",
+                "sigla": "CRI",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3482a8351.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "criciuma-botafogo-17069",
+            "data_realizacao": "16/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-16T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17081,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Bragantino",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 64,
+                "nome_popular": "Bragantino",
+                "sigla": "BGT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a5db2ec.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-bragantino-17081",
+            "data_realizacao": "19/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-19T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17099,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Vasco x Botafogo",
+            "time_mandante": {
+                "time_id": 23,
+                "nome_popular": "Vasco",
+                "sigla": "VAS",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3490f1e73.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "vasco-botafogo-17099",
+            "data_realizacao": "23/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-23T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17122,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Cuiabá x Botafogo",
+            "time_mandante": {
+                "time_id": 204,
+                "nome_popular": "Cuiabá",
+                "sigla": "CUI",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34ebcdafa.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "cuiaba-botafogo-17122",
+            "data_realizacao": "26/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-26T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17134,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Atlético-MG",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 30,
+                "nome_popular": "Atlético-MG",
+                "sigla": "CAM",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3494f3380.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-atletico-mg-17134",
+            "data_realizacao": "30/06/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-06-30T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17149,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Vitória x Botafogo",
+            "time_mandante": {
+                "time_id": 102,
+                "nome_popular": "Vitória",
+                "sigla": "VIT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34bb4bf99.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "vitoria-botafogo-17149",
+            "data_realizacao": "03/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-03T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17164,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Palmeiras",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a1cf247.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-palmeiras-17164",
+            "data_realizacao": "07/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-07T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17174,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Internacional",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 44,
+                "nome_popular": "Internacional",
+                "sigla": "INT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349b92103.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-internacional-17174",
+            "data_realizacao": "10/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-10T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17186,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "São Paulo x Botafogo",
+            "time_mandante": {
+                "time_id": 57,
+                "nome_popular": "São Paulo",
+                "sigla": "SAO",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a23c311.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "sao-paulo-botafogo-17186",
+            "data_realizacao": "17/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-17T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17194,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Cruzeiro",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 37,
+                "nome_popular": "Cruzeiro",
+                "sigla": "CRU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34984830b.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-cruzeiro-17194",
+            "data_realizacao": "21/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-21T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17208,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Atlético-GO x Botafogo",
+            "time_mandante": {
+                "time_id": 98,
+                "nome_popular": "Atlético-GO",
+                "sigla": "ACG",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34b9174a3.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "atletico-go-botafogo-17208",
+            "data_realizacao": "28/07/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-07-28T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17219,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Juventude x Botafogo",
+            "time_mandante": {
+                "time_id": 43,
+                "nome_popular": "Juventude",
+                "sigla": "JUV",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349b308c6.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "juventude-botafogo-17219",
+            "data_realizacao": "04/08/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-08-04T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17224,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Flamengo",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 18,
+                "nome_popular": "Flamengo",
+                "sigla": "FLA",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d348e3f815.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-flamengo-17224",
+            "data_realizacao": "11/08/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-08-11T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17232,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Bahia x Botafogo",
+            "time_mandante": {
+                "time_id": 68,
+                "nome_popular": "Bahia",
+                "sigla": "BAH",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a8b6bd8.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "bahia-botafogo-17232",
+            "data_realizacao": "18/08/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-08-18T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17244,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Fortaleza",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 131,
+                "nome_popular": "Fortaleza",
+                "sigla": "FOR",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34c76d067.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-fortaleza-17244",
+            "data_realizacao": "25/08/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-08-25T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17254,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Corinthians",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 65,
+                "nome_popular": "Corinthians",
+                "sigla": "COR",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a68419f.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-corinthians-17254",
+            "data_realizacao": "01/09/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-09-01T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17263,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Fluminense x Botafogo",
+            "time_mandante": {
+                "time_id": 26,
+                "nome_popular": "Fluminense",
+                "sigla": "FLU",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3492a6e0b.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "fluminense-botafogo-17263",
+            "data_realizacao": "15/09/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-09-15T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17274,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Grêmio",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 45,
+                "nome_popular": "Grêmio",
+                "sigla": "GRE",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349c32bf1.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-gremio-17274",
+            "data_realizacao": "22/09/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-09-22T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17287,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Athletico-PR x Botafogo",
+            "time_mandante": {
+                "time_id": 185,
+                "nome_popular": "Athletico-PR",
+                "sigla": "CAP",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34e1b8948.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "athletico-pr-botafogo-17287",
+            "data_realizacao": "29/09/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-09-29T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17294,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Criciúma",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 1,
+                "nome_popular": "Criciúma",
+                "sigla": "CRI",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3482a8351.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-criciuma-17294",
+            "data_realizacao": "05/10/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-10-05T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17306,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Bragantino x Botafogo",
+            "time_mandante": {
+                "time_id": 64,
+                "nome_popular": "Bragantino",
+                "sigla": "BGT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a5db2ec.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "bragantino-botafogo-17306",
+            "data_realizacao": "20/10/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-10-20T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17314,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Vasco",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 23,
+                "nome_popular": "Vasco",
+                "sigla": "VAS",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3490f1e73.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-vasco-17314",
+            "data_realizacao": "26/10/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-10-26T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17324,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Cuiabá",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 204,
+                "nome_popular": "Cuiabá",
+                "sigla": "CUI",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34ebcdafa.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-cuiaba-17324",
+            "data_realizacao": "06/11/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-11-06T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17331,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Atlético-MG x Botafogo",
+            "time_mandante": {
+                "time_id": 30,
+                "nome_popular": "Atlético-MG",
+                "sigla": "CAM",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d3494f3380.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "atletico-mg-botafogo-17331",
+            "data_realizacao": "20/11/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-11-20T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17344,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x Vitória",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 102,
+                "nome_popular": "Vitória",
+                "sigla": "VIT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34bb4bf99.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-vitoria-17344",
+            "data_realizacao": "24/11/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-11-24T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17355,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Palmeiras x Botafogo",
+            "time_mandante": {
+                "time_id": 56,
+                "nome_popular": "Palmeiras",
+                "sigla": "PAL",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a1cf247.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "palmeiras-botafogo-17355",
+            "data_realizacao": "01/12/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-12-01T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17360,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Internacional x Botafogo",
+            "time_mandante": {
+                "time_id": 44,
+                "nome_popular": "Internacional",
+                "sigla": "INT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349b92103.svg"
+            },
+            "time_visitante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "internacional-botafogo-17360",
+            "data_realizacao": "04/12/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-12-04T12:00:00-0300",
+            "estadio": null
+        },
+        {
+            "partida_id": 17374,
+            "campeonato": {
+                "campeonato_id": 10,
+                "nome": "Campeonato Brasileiro",
+                "slug": "campeonato-brasileiro"
+            },
+            "placar": "Botafogo x São Paulo",
+            "time_mandante": {
+                "time_id": 22,
+                "nome_popular": "Botafogo",
+                "sigla": "BOT",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d349052558.svg"
+            },
+            "time_visitante": {
+                "time_id": 57,
+                "nome_popular": "São Paulo",
+                "sigla": "SAO",
+                "escudo": "https://cdn.api-futebol.com.br/escudos/638d34a23c311.svg"
+            },
+            "placar_mandante": null,
+            "placar_visitante": null,
+            "disputa_penalti": false,
+            "status": "agendado",
+            "slug": "botafogo-sao-paulo-17374",
+            "data_realizacao": "08/12/2024",
+            "hora_realizacao": null,
+            "data_realizacao_iso": "2024-12-08T12:00:00-0300",
+            "estadio": null
+        }
+    ]
+}

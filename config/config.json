@@ -1,0 +1,6 @@
+{
+    "API_FUTEBOL_BASE_URL": "https://api.api-futebol.com.br/v1",
+    "API_KEY": "defaul-api-futebol-live-key",
+    "SERVICE_ACCOUNT_FILE": "path/to/key.json",
+    "SCOPES": ["https://www.googleapis.com/auth/calendar"]
+}
