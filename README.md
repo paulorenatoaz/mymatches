@@ -8,8 +8,8 @@ MyMatches is a Python package that fetches football match data from the API-Fute
 - Update Google Calendar with upcoming matches
 - Support for multiple teams
 
-Team Calendars
-Here are the Google Calendars for the supported teams:
+## Team Calendars
+Here are the Google Calendars made for the supported teams:
 
 
 <a href="https://calendar.google.com/calendar/u/0?cid=NzBlMDM1OWIxMGRiYzYyNmFkNTZmZmUyMTI0NDZlMjM3OWVjYTdkYmE5ODg3OTEyMDQxNjhlN2UwYWZjOWQ2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">
