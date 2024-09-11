@@ -4,7 +4,7 @@ MyMatches is a Python package that fetches football match data from the API-Fute
 
 ## Features
 
-- Fetch football match data from API-Futebol
+- Fetch football match data from rapidapí.com API-Football
 - Update Google Calendar with upcoming matches
 - Support for multiple teams
 
@@ -31,3 +31,15 @@ Here are the Google Calendars made for the supported teams:
 <a href="https://calendar.google.com/calendar/u/0?cid=OThlNGY1ZTM3ODgxNzNiNzE0NTZiYzYyYzdlM2JhMjAxZjAzZTJmMzMwNTg1ZTJiZTA1OWEyODliYTA3ODk5N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">
   <img src="https://cdn.api-futebol.com.br/escudos/638d3490f1e73.svg" alt="Vasco da Gama" height="30"> Vasco da Gama
 </a>
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install MyMatches.
+
+```bash
+pip install mymatches
+```
+
+## Usage
+
+edit 

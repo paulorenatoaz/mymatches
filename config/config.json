@@ -1,6 +1,10 @@
 {
-    "API_FUTEBOL_BASE_URL": "https://api.api-futebol.com.br/v1",
-    "API_KEY": "defaul-api-futebol-live-key",
-    "SERVICE_ACCOUNT_FILE": "path/to/key.json",
-    "SCOPES": ["https://www.googleapis.com/auth/calendar"]
+"API_KEY": "your rapidapi football api key",
+"CALENDARS": {
+                "team_id_1" : "calendar_id_1",
+                "team_id_2" : "calendar_id_2",
+            },
+"CHROME_DRIVER_PATH" : "path\\to\\chromedriver.exe",
+"CHROME_PROFILE_PATH" : "userfolder\\AppData\\Local\\Google\\Chrome\\User Data",
+"PROFILE_DIRECTORY" : "Profile x"
 }

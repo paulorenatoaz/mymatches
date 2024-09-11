@@ -6,9 +6,9 @@ setup(
     description='Fetch football match data and update Google Calendar',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Paulo Renato Azeredo',
+    author='Paulo Renato Azevedo',
     author_email='paulorenatoaz@dcc.ufrj.br',
-    url='https://github.com/yourusername/mymatches',
+    url='https://github.com/paulorenatoaz/mymatches',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
